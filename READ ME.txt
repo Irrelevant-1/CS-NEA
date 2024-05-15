@@ -1,0 +1,7 @@
+Before running this program, ensure that python and java are installed along with all of the necessary modules.
+
+To run, open the folder in your chosen code editor and run the "interface.py" file. 
+
+"MIDI_files" contains example files I used however files can be selected from anywhere on your system which can be accessed through the file explorer.
+
+The TAB output is saved to the OutputTABs folder in the form of a text file, with the name of the file based on the name of the MIDI file used to create it.
