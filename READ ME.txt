@@ -1,4 +1,8 @@
-Before running this program, ensure that python and java are installed along with all of the necessary modules.
+Before running this program, ensure that python and java (including the Java Development Kit) are installed along with all of the necessary modules.
+The java installer can be downloaded from wget https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249833_43d62d619be4e416215729597d70b8ac
+JDK can be installed from https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
+Python can be installed from https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
+pip must be used to install the following : tkinter, customtkinter
 
 To run, open the folder in your chosen code editor and run the "interface.py" file. 
 
